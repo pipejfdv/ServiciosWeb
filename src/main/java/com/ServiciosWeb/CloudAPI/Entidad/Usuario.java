@@ -18,5 +18,5 @@ public class Usuario {
     private String apellidos;
     private String telefono;
     private Date fechaNacimiento;
-    private String url;
+    private String urlImagen;
 }
